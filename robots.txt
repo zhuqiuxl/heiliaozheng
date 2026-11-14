@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhuqiuxl.github.io/heiliaozheng/sitemap.xml
